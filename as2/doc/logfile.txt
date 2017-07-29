@@ -1,0 +1,52 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_51\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\Blue J\lib\bluejcore.jar;D:\Blue J\lib\junit-4.8.2.jar;D:\Blue J\lib\userlib\pi4j-core.jar;D:\Blue J\lib\userlib\pi4j-device.jar;D:\Blue J\lib\userlib\pi4j-gpio-extension.jar;D:\Blue J\lib\userlib\pi4j-service.jar;C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2
+-d
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+D:\Blue J\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java
+<---- end of javadoc command ---->
+正在加载源文件C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java...
+正在构造 Javadoc 信息...
+标准 Doclet 版本 1.8.0_51
+正在构建所有软件包和类的树...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\Item.html...
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:35: 警告 - @param argument "item's" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:35: 警告 - @param argument "item's" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:35: 警告 - @param argument "item's" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:35: 警告 - @param argument "item's" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:35: 警告 - @param argument "item's" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:122: 警告 - @param argument "integer" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:140: 警告 - @param argument "integer" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:113: 警告 - @param argument "integer" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:131: 警告 - @param argument "integer" 不是参数名称。
+C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\Item.java:104: 警告 - @param argument "String" 不是参数名称。
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\package-frame.html...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\package-summary.html...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\constant-values.html...
+正在构建所有软件包和类的索引...
+正在构建所有类的索引...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\allclasses-frame.html...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\allclasses-noframe.html...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\index.html...
+正在生成 C:\Users\YLY\Desktop\java as2 FINAL\java as2\as2\doc\stylesheet.css...
+10 个警告
